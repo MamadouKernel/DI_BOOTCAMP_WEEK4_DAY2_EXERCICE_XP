@@ -1,0 +1,13 @@
+button{
+    margin: 20px;
+    padding: 20px;
+    background-color: blue;
+    color: whitesmoke;
+    font-size: 20px;
+    border-radius: 30px;
+}
+
+button:hover{
+    color: azure;
+    background-color: grey;
+}

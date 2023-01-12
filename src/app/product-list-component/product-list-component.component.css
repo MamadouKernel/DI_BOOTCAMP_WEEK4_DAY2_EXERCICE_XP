@@ -1,0 +1,23 @@
+table{
+    border: 2px solid black;
+    margin: 0 auto;
+    
+}
+.highlightDirective{
+    background-color: yellow;
+    color: red;
+}
+
+.color{
+    color: blue;
+}
+
+th{
+    font-size: 35px;
+    padding: 10px;
+    background-color: brown;
+}
+td{
+    font-size: 20px;
+    padding: 5px;
+}
